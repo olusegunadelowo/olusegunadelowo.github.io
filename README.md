@@ -44,7 +44,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">My CV</a></td>
+      <td><a href="https://docs.google.com/document/d/1iaos-Lm91ylxpoh811HtFJn-daDaIfz-/edit?usp=sharing&ouid=113556563897617235555&rtpof=true&sd=true">My CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
